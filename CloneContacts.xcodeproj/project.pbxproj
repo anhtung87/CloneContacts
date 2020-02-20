@@ -40,6 +40,7 @@
 		6D696A5523FD1C1E00BAA7AB /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 		6D696A5923FD43F200BAA7AB /* ContactTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactTableViewCell.swift; sourceTree = "<group>"; };
 		6D696A5C23FD47D000BAA7AB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		6D696A5E23FE404600BAA7AB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		6D677D0323FBCB550056FE29 = {
 			isa = PBXGroup;
 			children = (
+				6D696A5E23FE404600BAA7AB /* README.md */,
 				6D677D0E23FBCB550056FE29 /* CloneContacts */,
 				6D677D0D23FBCB550056FE29 /* Products */,
 			);
